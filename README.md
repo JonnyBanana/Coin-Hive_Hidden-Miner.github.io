@@ -7,7 +7,7 @@ https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/coinhive-icon.png)
 
 I have created this simple html page as a demonstration on how to make hidden the javascript miner of Coin Hive.<BR>
-In fact, even if the site says that you can not use the miner without the consent of the user, in reality, things are very different ...
+In fact, even if the site says that you can not use the miner without the consent of the user, in reality, things are very different ...</BR>
 In part however it is true what they say, in fact if you try to call the .js file of the miner directly from their servers, that is:
 
 https://coinhive.com/lib/coinhive.min.js?v8</BR>
