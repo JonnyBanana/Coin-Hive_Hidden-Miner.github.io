@@ -29,6 +29,10 @@ All
 
 <h3> How it Works??? </h3>
 
+![Alt text](https://imgflip.com/gif/2me3te)
+
+
+
 
 
 <h3> Curiosity </h3>
