@@ -29,9 +29,8 @@ All
 
 <h3> How it Works??? </h3>
 
-![Alt text](https://media.giphy.com/media/yycuIpZxJoMMYlOl6d/giphy.gif)
+![Alt text](https://media.giphy.com/media/yycuIpZxJoMMYlOl6d/giphy.gif width="480" height="350")
 
-<iframe src="https://giphy.com/embed/cIWvXViLHQ6UbjHIZp" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cIWvXViLHQ6UbjHIZp">via GIPHY</a></p>
 
 
 
