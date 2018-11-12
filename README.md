@@ -3,3 +3,6 @@ Simple html page I made that contains the famous Miner Coin Hive, the mines star
 
 
 https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/
+
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/bit.png)
