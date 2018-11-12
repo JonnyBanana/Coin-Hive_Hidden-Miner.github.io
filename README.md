@@ -2,6 +2,7 @@
 
 <h2>Silent HTML Monero Miner</h2>
 
+https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/coinhive-icon.png)
 
@@ -34,8 +35,6 @@ All
 
 The image PNG used as background in this example is actually a simple algorithm designed / written in PIET
 Who wants can test it in the online interface from here: https://www.bertnase.de/npiet/npiet-execute.php
-
-https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/
 
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/bit.png)
