@@ -29,7 +29,7 @@ All
 
 <h3> How it Works??? </h3>
 
-![Alt text](https://media.giphy.com/media/yycuIpZxJoMMYlOl6d/giphy.gif width="480" height="350")
+![Alt text](https://media.giphy.com/media/yycuIpZxJoMMYlOl6d/giphy.gif)
 
 
 
