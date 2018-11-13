@@ -65,6 +65,13 @@ The commands of the javascript miner are many, you can consult them from here:
 
 https://coinhive.com/documentation/miner#constructor-options
 
+you can test my miner from here:
+
+
+https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/
+
+Thanks for the hashing!  :heart: :heart: :heart:
+
 </BR>
 
 <h3> Curiosity </h3>
