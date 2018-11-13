@@ -17,10 +17,10 @@ you will see that the user's consent will be required, but the thing is easily c
 
 <h3> Requirements </h3>
 
-1. a Coin Hive Account (https://coinhive.com)
-2. a Monero Wallet to make the withdraw  (https://mymonero.com/#/)
-3. a Web Server or a Website (also Github)
-4. a Coin Hive site key
+* a Coin Hive Account (https://coinhive.com)
+* a Monero Wallet to make the withdraw  (https://mymonero.com/#/)
+* a Web Server or a Website (also Github)
+* a Coin Hive site key
 
 
 <h3> Browser Compatibility </h3>
