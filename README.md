@@ -20,6 +20,8 @@ https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/
 
 :trollface: :trollface: :trollface: :trollface: :trollface: :trollface::trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface:
 
+</BR>
+
 <h3> Requirements </h3>
 
 * a Coin Hive Account (https://coinhive.com)
@@ -27,10 +29,13 @@ https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/
 * a Web Server or a Website (also Github)
 * a Coin Hive site key
 
+</BR>
 
 <h3> Browser Compatibility </h3>
 
 All
+
+</BR>
 
 <h3> How it Works??? </h3>
 
