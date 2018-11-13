@@ -52,7 +52,7 @@ https://coinhive.com/lib/coinhive.min.js?v8
 
 From line 22 onwards the miner settings start, with the Coinhive.Anonymous command we tell the miner to start anonymously, </BR>
 after which you can see my public key, which you have to replace with your public site key.</BR>
-The throttle command determines the% of the processor you want to steal from the victim machine, 0 is 100% while 0.8 is the minimum.
+The throttle command determines the % of the processor you want to steal from the victim machine, 0 is 100% while 0.8 is the minimum.
 
 In my case I set the request to 80%
 
