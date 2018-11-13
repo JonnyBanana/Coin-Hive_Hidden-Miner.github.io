@@ -65,6 +65,8 @@ The commands of the javascript miner are many, you can consult them from here:
 
 https://coinhive.com/documentation/miner#constructor-options
 
+</BR>
+
 you can test my miner from here:
 
 
@@ -79,5 +81,8 @@ Thanks for the hashing!  :heart: :heart: :heart:
 The image PNG used as background in this example is actually a simple algorithm designed / written in PIET.</BR>
 Who wants can test it in the online interface from here: https://www.bertnase.de/npiet/npiet-execute.php
 
+</BR>
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/bit.png)
+
+
