@@ -37,7 +37,11 @@ All
 Once you register on CoinHive and after creating the site key you are ready for the simple setting of the miner.
 In practice everything is concentrated in the few lines in the code index.html file that you can see in the image:
 
+</BR>
+
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/screenshot.JPG)
+
+</BR>
 
 In line 20 it is sufficient to replace the url (in my case hosted in github) with that of the webserver where you have loaded the html page.
 Note that I replaced the file name from coinhive.min.js to pino.js, this for a further avoidance of the AV, of course you can rename the file with a name of your choice ...
