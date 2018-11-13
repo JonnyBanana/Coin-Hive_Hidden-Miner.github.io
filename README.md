@@ -61,6 +61,7 @@ The commands of the javascript miner are many, you can consult them from here:
 
 https://coinhive.com/documentation/miner#constructor-options
 
+</BR>
 
 <h3> Curiosity </h3>
 
