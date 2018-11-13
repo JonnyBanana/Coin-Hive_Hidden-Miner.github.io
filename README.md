@@ -74,6 +74,9 @@ https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/
 
 Thanks for the hashing!  :heart: :heart: :heart:
 
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/moneroxmr.png)
+
 </BR>
 
 <h3> Curiosity </h3>
