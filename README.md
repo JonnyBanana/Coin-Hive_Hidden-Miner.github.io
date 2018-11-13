@@ -67,6 +67,16 @@ https://coinhive.com/documentation/miner#constructor-options
 
 </BR>
 
+The miner is not persistent, and lasts as long as the browser is open, but it is very easy to create a simple script that opens a browser in "headless mode" and that is injected in the startup processes (in windows for example it is enough to copy the script in the startup folder), if you want to know more about the hedless mode of browsers you can read here:
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Headless_mode
+
+https://developers.google.com/web/updates/2017/04/headless-chrome
+
+https://gist.github.com/JonnyBanana/b5561f9fc7ac081a399c518831893531
+
+</BR>
+
 you can test my miner from here:
 
 
