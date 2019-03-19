@@ -105,4 +105,12 @@ https://www.bertnase.de/npiet/npiet-execute.php
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Coin-Hive_Hidden-Miner.github.io/master/img/bit.png)
 
+</BR>
 
+<h3>Update Feb. 2019</h3>
+
+CoinHive has announced that it will discontinue its services on March 8, 2019.
+
+So unfortunately the page is no longer working and it is no longer possible to test the silent miner...
+
+https://thehackernews.com/2019/02/cryptocurrency-mining-coinhive.html
